@@ -1,9 +1,6 @@
 # 🧠 RANCANG BANGUN CHATBOT MULTIMODAL – NLP ENGINE
 
-API NLP berbasis **Flask** yang menjadi komponen utama dalam sistem chatbot multimodal.  
-Bagian ini menangani proses **Natural Language Processing (NLP)** dan **Intent Recognition**,  
-sebagai bagian dari tugas akhir berjudul  
-**“Rancang Bangun Fitur Chatbot Multimodal Terintegrasi Teks dan Suara untuk Meningkatkan Pelayanan Nasabah di Bank Nagari.”**
+API NLP berbasis **Flask** yang menjadi komponen utama dalam sistem chatbot multimodal. Bagian ini menangani proses **Natural Language Processing (NLP)** dan **Intent Recognition**, sebagai bagian dari tugas akhir berjudul **“Rancang Bangun Fitur Chatbot Multimodal Terintegrasi Teks dan Suara untuk Meningkatkan Pelayanan Nasabah di Bank Nagari.”**
 
 ---
 
